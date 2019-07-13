@@ -1,0 +1,20 @@
+input_data/
+summary/
+models/
+log/
+datasets/
+gleam/
+human_activity/
+landmine/
+.vscode/
+
+*.csv
+*.txt
+# *.png
+*.data
+*.swp
+
+__pycache__
+*.pyc
+*.out
+*.DS_Store
