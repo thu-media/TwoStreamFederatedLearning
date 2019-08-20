@@ -1,6 +1,7 @@
 # Two-Stream Federated Learning: Reduce the Communication Costs
 
-The implementation of "Two-Stream Federated Learning: Reduce the Communication Costs" (VCIP 2018). [[PDF]](https://ieeexplore.ieee.org/abstract/document/8698609)
+The implementation of "Two-Stream Federated Learning: Reduce the Communication Costs" (VCIP 2018).\
+[[PDF]](https://yaox12.github.io/assets/files/yao2019federated.pdf) (The full version on [arXiv](https://arxiv.org/abs/1908.05891))
 
 ## Introduction
 
@@ -15,8 +16,16 @@ Following experiments show that the proposed model outperforms baseline methods,
 
 ## Cite
 
-If you find this work useful to you, please cite:
-
+If you find this work useful to you, please cite the full version ([arXiv](https://arxiv.org/abs/1908.05891)):
+```
+@article{yao2019federated,
+  Author = {Yao, Xin and Huang, Tianchi and Wu, Chenglei and Zhang, Rui-Xiao and Sun, Lifeng},
+  Journal = {arXiv preprint arXiv:1908.05891},
+  Title = {Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs},
+  Year = {2019}
+}
+```
+or the conference version ([IEEE](https://ieeexplore.ieee.org/abstract/document/8698609)):
 ```
 @inproceedings{yao2018two,
   title={Two-Stream Federated Learning: Reduce the Communication Costs},
